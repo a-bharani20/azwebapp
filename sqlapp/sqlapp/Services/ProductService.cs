@@ -8,7 +8,7 @@ namespace sqlapp.Services
 		private static string db_source = "appserver1980.database.windows.net";
 		private static string db_user = "sqladmin";
 		private static string db_password = "Test@123";
-		private static string db_database = "appdb";
+		private static string db_database = "dbapp";
 
 
 		private SqlConnection GetConnection()
