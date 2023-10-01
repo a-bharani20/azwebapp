@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{80B6209E-18FB-48D0-ABA3-6E85BC50B63A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sqlapp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/ProductService.cs">
+    <Files>
+      <File FileName="sqlapp/Models/Product.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="sqlapp/Pages/Index.cshtml" Line="1" Column="1" IsPinned="True" />
+      <File FileName="sqlapp/Services/ProductService.cs" Line="14" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
