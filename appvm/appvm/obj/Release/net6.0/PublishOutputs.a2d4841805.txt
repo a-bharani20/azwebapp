@@ -1,6 +1,0 @@
-/Users/bharanidharananantharaman/Projects/appvm/appvm/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
-/Users/bharanidharananantharaman/Projects/appvm/appvm/obj/Release/net6.0/PubTmp/Out/appsettings.json
-/Users/bharanidharananantharaman/Projects/appvm/appvm/obj/Release/net6.0/PubTmp/Out/appvm.dll
-/Users/bharanidharananantharaman/Projects/appvm/appvm/obj/Release/net6.0/PubTmp/Out/appvm.deps.json
-/Users/bharanidharananantharaman/Projects/appvm/appvm/obj/Release/net6.0/PubTmp/Out/appvm.runtimeconfig.json
-/Users/bharanidharananantharaman/Projects/appvm/appvm/obj/Release/net6.0/PubTmp/Out/appvm.pdb
